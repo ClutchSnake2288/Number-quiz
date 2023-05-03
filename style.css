@@ -1,0 +1,49 @@
+*{margin: 0;}
+body{
+
+background-image: url("1664003269_j-97.jpg");
+background-size: cover;
+}
+html{
+     min-height:100% ;
+}
+form{
+    border: 1px solid white;
+    border-radius: 20px;
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    margin-top: 50px;
+    padding: 100px;
+}
+h2{
+    color: white;
+    font-family: sans-serif;
+    text-shadow: 7px;
+}
+p{
+    font-family: sans-serif;
+    color:whitesmoke ;
+    font-size: 20px;
+    text-shadow: 0 0 9px rgba(73, 48, 48, 0.582);
+    margin-top: 20px;
+}
+input{
+    display:block ;
+    margin: auto;
+    margin: 15px auto;
+    box-shadow: 0 0 15px black;
+border-radius:  20px;
+padding: 0 20px;
+height: 40px;
+font-family: sans-serif;
+border: none;
+}
+button{
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 90px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
